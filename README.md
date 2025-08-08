@@ -63,8 +63,9 @@ I’m a **Security Analyst** and **Networking Engineer** with over a year of han
 ---
 
 ##  Let’s Connect
-- **LinkedIn:** [@orifha-joan](#)  
-- **GitHub:** [github.com/orifhajoan](#)  
-- **Email:** orifha.joan@example.com  
-
+- **LinkedIn:** [https://www.linkedin.com/in/orifha-joan-a28489222/] (#)  
+- **GitHub:** [https://github.com/Orifha-Joan/Orifha-Joan] (#)  
+- **Email:** [joanorifha@gmail.com](#)
+- **X.com** [https://x.com/purpullgirl] (#)
+- **Meduim** [https://medium.com/@joanorifha] (#)
 > “Security is about seeing just enough to anticipate the next move.”
